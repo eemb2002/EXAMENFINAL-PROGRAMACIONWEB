@@ -3,6 +3,9 @@
 # ExamenPractico
 Examen Final Practico Espinosa Vera Elias Mateo - Muñoz Bowen Eloy Enrique
 
+# Repositorio de GitHub
+https://github.com/eemb2002/EXAMENFINAL-PROGRAMACIONWEB
+
 # Gestión de Productos y Categorías
 
 Este proyecto es una aplicación web para la gestión de empleados, tareas y proyectos, construida con Node.js, Express, MySQL para el backend y React para el frontend. 
