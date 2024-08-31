@@ -3,3 +3,6 @@ https://youtu.be/YC9pJ0tWaaE
 
 Link del video - Creación de base de datos y uso del archivo SQL
 https://youtu.be/Z7Leoc1ZOGI
+
+Link de video - Prueba rápida de la pág se realizo la prueba descargando el archivos del GitHub para visualizar que no hay errores)
+https://youtu.be/4Jth2GB1gNk
